@@ -1,0 +1,2 @@
+This project is about creating vcs hooks to support integration with 
+YouTrack -- a bug tracker from JetBrains -- using YouTrack REST api.
